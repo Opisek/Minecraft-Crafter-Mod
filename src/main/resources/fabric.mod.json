@@ -16,10 +16,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.example.ExampleMod"
+			"net.opisek.CrafterMod"
 		],
 		"client": [
-			"com.example.ExampleModClient"
+			"net.opisek.CrafterModClient"
 		]
 	},
 	"mixins": [
