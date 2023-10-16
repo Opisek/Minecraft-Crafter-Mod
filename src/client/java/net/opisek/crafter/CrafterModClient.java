@@ -1,4 +1,4 @@
-package net.opisek;
+package net.opisek.crafter;
 
 import net.fabricmc.api.ClientModInitializer;
 

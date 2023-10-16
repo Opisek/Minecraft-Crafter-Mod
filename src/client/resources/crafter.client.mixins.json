@@ -1,9 +1,9 @@
 {
 	"required": true,
-	"package": "com.example.mixin",
+	"package": "net.opisek.crafter.mixin.client",
 	"compatibilityLevel": "JAVA_17",
-	"mixins": [
-      "net.opisek.mixin.ExampleMixin"
+	"client": [
+      "CrafterClientMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
